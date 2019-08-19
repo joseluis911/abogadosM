@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Abogados Martinez & Asociados</title>
+    <title>Abogados Martínez</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -31,19 +31,19 @@
     
     <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
       <div class="container">
-        <a class="navbar-brand" href="index.html">Abogados Martinez</a>
+        <a class="navbar-brand" href="index.php">Abogados Martínez</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="oi oi-menu"></span> Menu
         </button>
 
         <div class="collapse navbar-collapse" id="ftco-nav">
           <ul class="navbar-nav ml-auto">
-            <li class="nav-item "><a href="index.html" class="nav-link">Home</a></li>
-            <li class="nav-item active"><a href="about.html" class="nav-link">Acerca de nosotros</a></li>
-            <li class="nav-item"><a href="practice-single.html" class="nav-link">Especialidades</a></li>
+            <li class="nav-item "><a href="index.php" class="nav-link">Home</a></li>
+            <li class="nav-item "><a href="about.php" class="nav-link">Acerca de nosotros</a></li>
+            <li class="nav-item"><a href="practice-single.php" class="nav-link">Especialidades</a></li>
           <!--  <li class="nav-item"><a href="attorneys.html" class="nav-link">Abogados</a></li>
             <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li> -->
-            <li class="nav-item"><a href="contact.html" class="nav-link">Contacto</a></li>
+            <li class="nav-item active"><a href="contact.php" class="nav-link">Contacto</a></li>
           </ul>
         </div>
       </div>
@@ -56,7 +56,7 @@
         <div class="row no-gutters slider-text align-items-end justify-content-center">
           <div class="col-md-9 ftco-animate pb-5 text-center">
             <h1 class="mb-3 bread">Contáctanos</h1>
-            <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Home <i class="ion-ios-arrow-forward"></i></a></span> <span>Contáctanos <i class="ion-ios-arrow-forward"></i></span></p>
+            <p class="breadcrumbs"><span class="mr-2"><a href="index.php">Home <i class="ion-ios-arrow-forward"></i></a></span> <span>Contáctanos <i class="ion-ios-arrow-forward"></i></span></p>
           </div>
         </div>
       </div>
@@ -71,18 +71,16 @@
           </div>
           <div class="w-100"></div>
           <div class="col-md-3">
-            <p><span>Dirección:</span> Normandia 36, col. Carmen, CDMX</p>
+            <p><span>Dirección:</span> Calle Dolores 16, Int. 404 Col. Centro, CDMX.</p>
+          </div>
+          <div class="col-md-2">
+            <p><span>Tel:</span> <br><a href="tel://5542580104">55 42 58 01 04</a></p>
           </div>
           <div class="col-md-3">
-            <p><span>Tel:</span> <a href="tel://5542580104
-">55 42 58 01 04
-</a></p>
+            <p><span>Email:</span> <a href="mailto:contacto@abogadosmartinez.mx">contacto@abogadosmartinez.mx</a></p>
           </div>
           <div class="col-md-3">
-            <p><span>Email:</span> <a href="mailto:contacto@abogadosmartinez.com">liz@abogadosmartinez.com</a></p>
-          </div>
-          <div class="col-md-3">
-            <p><span>Website</span> <a href="#">abogadosmartinez.com</a></p>
+            <p><span>Sitio</span> <br><a href="#">abogadosmartinez.mx</a></p>
           </div>
         </div>
         <div class="row block-9">
@@ -92,13 +90,13 @@
                 <input type="text" class="form-control" placeholder="Nombre">
               </div>
               <div class="form-group">
+                <input type="text" class="form-control" placeholder="Teléfono">
+              </div>
+              <div class="form-group">
                 <input type="text" class="form-control" placeholder="Email">
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" placeholder="Encabezado">
-              </div>
-              <div class="form-group">
-                <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Mensaje"></textarea>
+                <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="¿Cómo te podemos ayudar?"></textarea>
               </div>
               <div class="form-group">
                 <input type="submit" value="Enviar Mensaje" class="btn btn-primary py-3 px-5">
@@ -108,7 +106,9 @@
           </div>
 
           <div class="col-lg-6 d-flex">
-          	<div id="map" class="bg-white"></div>
+          	<div class="bg-white">
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.516552369031!2d-99.1449717850933!3d19.43328348688395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1f92b299cca75%3A0xaf84ab6d21966eab!2sDolores+16%2C+Colonia+Centro%2C+Centro%2C+06000+Ejido+del+Centro%2C+CDMX!5e0!3m2!1ses-419!2smx!4v1566185547159!5m2!1ses-419!2smx" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+            </div>
           </div>
         </div>
       </div>
@@ -137,76 +137,9 @@
       </div>
     </section> -->
 
-    <footer class="ftco-footer ftco-bg-dark ftco-section">
-      <div class="container">
-        <div class="row mb-5">
-          <div class="col-md">
-            <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">Abogados Martinez</h2>
-              <p>Mision o vision.</p>
-              <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
-                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-md">
-            <div class="ftco-footer-widget mb-4 ml-md-5">
-              <h2 class="ftco-heading-2">Areas de practica</h2>
-              <ul class="list-unstyled">
-                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Familiar </a></li>
-                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Criminal </a></li>
-                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Laboral</a></li>
-                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Mercantil</a></li>
-<!--                 <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Civil Offenses</a></li> -->
- <!--                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Fire Accident</a></li>
-                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Employment Law</a></li>
-                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Property Law</a></li> -->
-
-              </ul>
-            </div>
-          </div>
-          <div class="col-md">
-             <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">Horarios</h2>
-              <div class="opening-hours">
-                <h4>Lunes a viernes:</h4>
-                <p class="pl-3">
-                  <span> 9am a 8pm</span>
-              <!--    <span>Sabados : 9am a 2pm</span> -->
-                </p>
-      <!--          <h4>Vacations:</h4>
-                <p class="pl-3">
-                  <span>All Sunday Days</span>
-                  <span>All Official Holidays</span>
-                </p> -->
-              </div>
-            </div>
-          </div>
-          <div class="col-md">
-            <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">Alguna duda?</h2>
-              <div class="block-23 mb-3">
-                <ul>
-                  <li><span class="icon icon-map-marker"></span><span class="text">normandia 36, int 8, Col. Carmen.</span></li>
-                  <li><a href="#"><span class="icon icon-phone"></span><span class="text">55 42 58 01 04</span></a></li>
-                  <li><a href="#"><span class="icon icon-envelope"></span><span class="text">contacto@comocrearmipaginaweb.com.mx</span></a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-12 text-center">
-
-            <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> Todos los derechos reservados   por <a href="http://comocrearmipaginaweb.com.mx" target="_blank">ComoCrearMiPaginaweb</a>
-  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
-          </div>
-        </div>
-      </div>
-    </footer>
+<?php
+  include "footer.php"
+?>
     
   
 

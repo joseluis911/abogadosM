@@ -7920,6 +7920,17 @@ a.text-dark:hover, a.text-dark:focus {
 .invisible {
   visibility: hidden !important; }
 
+.contact {
+   background-color: #272829;
+   color: grey;
+}
+  .contact a{
+    color: white;
+  }
+  
+  
+
+
 @media print {
   *,
   *::before,
@@ -8185,10 +8196,16 @@ h1, h2, h3, h4, h5,
   width: 100%;
   height: 100%;
   position: inherit;
+  background-image: url("../images/heroAM.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top center;
   position: relative; }
+  @media (max-width: 425px){
+    .hero-wrap{
+       background-image: url("../images/heroAM_smail.png");
+    }
+  }
   .hero-wrap .overlay {
     position: absolute;
     top: 0;
@@ -8408,7 +8425,8 @@ h1, h2, h3, h4, h5,
   -webkit-transition: all 0.3s ease;
   -ms-transition: all 0.3s ease;
   transition: all 0.3s ease;
-  background: #2c2f3a; }
+  background: #343a40;
+  }
   .services:nth-child(even) {
     background: #16181d; }
   .services .icon {

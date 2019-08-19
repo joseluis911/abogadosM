@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Abogados Martinez</title>
+    <title>Abogados Martínez</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="icon" href="images/icon_logo.png" type="img/png">
@@ -27,40 +27,60 @@
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
+    <script src="https://kit.fontawesome.com/0d771e1d4c.js"></script>
   </head>
   <body>
+    <!-- contact -->
+    <section class="contact">
+        <div class="container">
+            <div class="row ">
+                <div class="col">
+                 
+                    
+                        Llamanos:
+                        <a href="tel://5542580104">55 42 58 01 04 </a> ||
+                        <a href="tel://5536318146">55 36 31 81 46 </a> 
+                  
+                </div>
+            </div>
+        </div> 
+    </section>
     
+
+    <!-- END contact
+
+    <!-- nav-->
 	  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
-	      <a class="navbar-brand" href="index.html">Abogados Martinez</a>
+	      <a class="navbar-brand" href="index.php">Abogados Martínez</a>
 	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 	        <span class="oi oi-menu"></span> Menu
 	      </button>
 
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav ml-auto">
-	          <li class="nav-item active"><a href="index.html" class="nav-link">Home</a></li>
-	          <li class="nav-item"><a href="about.html" class="nav-link">Acerca de nosotros</a></li>
-	          <li class="nav-item"><a href="practice-single.html" class="nav-link">Especialidades</a></li>
+	          <li class="nav-item active"><a href="index.php" class="nav-link">Home</a></li>
+	          <li class="nav-item"><a href="about.php" class="nav-link">Acerca de nosotros</a></li>
+	          <li class="nav-item"><a href="practice-single.php" class="nav-link">Especialidades</a></li>
 <!-- 	          <li class="nav-item"><a href="attorneys.html" class="nav-link">Abogados</a></li>
 	          <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li> -->
-	          <li class="nav-item"><a href="contact.html" class="nav-link">Contacto</a></li>
+	          <li class="nav-item"><a href="contact.php" class="nav-link">Contacto</a></li>
 	        </ul>
 	      </div>
 	    </div>
 	  </nav>
     <!-- END nav -->
     
-    <div class="hero-wrap js-fullheight" style="background-image: url('images/bg_1.jpg');" data-stellar-background-ratio="0.5">
-      <div class="overlay"></div>
+    <div class="hero-wrap js-fullheight"  data-stellar-background-ratio="0.5">
+    <!--   <div class="overlay"></div> -->
       <div class="container">
         <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-center" data-scrollax-parent="true">
           <div class="col-md-10 text-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
-          	<h2 class="subheading" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Trabajamos para solucionar tus problemas.</h2>
+          <!-- 	<h2 class="subheading" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Trabajamos para solucionar tus problemas.</h2>
             <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">
             	<span>HONESTIDAD. </span><span>CALIDAD. </span><span>PRONTITUD </span>
-            </h1>
-            <p><a href="#" class="btn btn-primary py-3 px-4">Consultanos sin costo</a></p>
+            </h1> -->
+           <!--  <p><a href="#" class="btn btn-primary py-3 px-4">Consultanos sin costo</a></p> -->
           </div>
         </div>
       </div>
@@ -68,53 +88,53 @@
 
     <section class="ftco-section ftco-no-pb services-section">
       <div class="container">
-        <div class="row no-gutters d-flex">
+        <div class="row no-gutters d-flex justify-content-center">
           <div class="col-md-3 text-center services align-self-stretch ftco-animate p-4">
             <div class="icon"><span class="flaticon-auction"></span></div>
             <div class="media-body">
-              <h3 class="heading mb-3"><a href="practice-single.html">Orientación y Asesoria Legal GRATUITA</a></h3>
+              <h3 class="heading mb-3"><a href="practice-single.php">Orientación y Asesoria Legal GRATUITA</a></h3>
               <p>Colaboraramos en la defensa de la justicia.</p>
             </div>
           </div>
           <div class="col-md-3 text-center services align-self-stretch ftco-animate p-4">
             <div class="icon"><span class="flaticon-lawyer"></span></div>
             <div class="media-body">
-              <h3 class="heading mb-3"><a href="practice-single.html">Abogados lideres</a></h3>
+              <h3 class="heading mb-3"><a href="practice-single.php">Abogados lideres</a></h3>
               <p>Brindamos a nuestros clientes, atención profesional y personalizada</p>
             </div>
           </div>
           <div class="col-md-3 text-center services align-self-stretch ftco-animate p-4">
             <div class="icon"><span class="flaticon-money"></span></div>
             <div class="media-body">
-              <h3 class="heading mb-3"><a href="practice-single.html">Precios Justos</a></h3>
-              <p>Los servicios que ofrecemos están basados en la responsabilidad social y dentro de un nivel ético profesional, que garantiza los mejores resultados para su beneficio y en defensa de sus derechos.</p>
+              <h3 class="heading mb-3"><a href="practice-single.php">Precios Justos</a></h3>
+              <p class="text-justify">Los servicios que ofrecemos están basados en la responsabilidad social y dentro de un nivel ético, profesional. garantizamos los mejores resultados para su beneficio y en defensa de sus derechos.</p>
             </div>
           </div>
-          <div class="col-md-3 text-center services align-self-stretch ftco-animate p-4">
+ <!--          <div class="col-md-3 text-center services align-self-stretch ftco-animate p-4">
             <div class="icon"><span class="ion-ios-help-circle-outline"></span></div>
             <div class="media-body">
               <h3 class="heading mb-3"><a href="practice-single.html">Contáctanos</a></h3>
               <p>Conozca más sobre nuestras especialidades, horarios de atención y servicios complementarios.</p>
             </div>
-          </div>
+          </div> -->
         </div>
       </div>
     </section>
    	
-    <section class="ftco-counter" id="section-counter">
+ <!--    <section class="ftco-counter" id="section-counter">
     	<div class="container-fluid">
     		<div class="row d-flex">
     			<div class="col-md-6 d-flex">
     				<div class="img d-flex align-self-stretch align-items-center justify-content-center" style="background-image:url(images/justicia.jpg);">
-    				<!-- 	<a href="https://vimeo.com/45830194" class="icon-video popup-vimeo d-flex justify-content-center align-items-center">
+    				<!- 	<a href="https://vimeo.com/45830194" class="icon-video popup-vimeo d-flex justify-content-center align-items-center">
     						<span class="icon-play"></span>
-    					</a> -->
+    					</a>
     				</div>
     			</div>
     			<div class="col-md-6 px-5 py-5">
     				<div class="row justify-content-start pt-3 pb-3">
 		          <div class="col-md-12 heading-section ftco-animate">
-		          	<!-- <span class="subheading">Martinez & Asociados</span> -->
+		          	 <span class="subheading">Martinez & Asociados</span> 
 		            <h2 class="mb-4">Abogados Martinez</h2>
 		            <p>Somos una firma joven con la más amplia experiencia profesional en diferentes ramas del derecho, respaldados por el reconocimiento y agradecimiento de nuestros clientes.</p>
 		          </div>
@@ -168,31 +188,31 @@
 	        </div>
         </div>
     	</div>
-    </section>
+    </section> -->
 
     <section class="ftco-section bg-light">
     	<div class="container">
     		<div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-7 text-center heading-section ftco-animate">
-          	<span class="subheading">Especialidades</span>
-            <h2 class="mb-4">Áreas de practica</h2>
+         <!--  	<span class="subheading">Áreas de practica</span> -->
+            <h2 class="mb-4">Especialidades</h2>
           </div>
         </div>
         <div class="row d-flex justify-content-center">
         	<div class="col-md-3 col-lg-2 text-center">
         		<div class="practice-area ftco-animate">
-        			<div class="icon d-flex justify-content-center align-items-center">
+        			<a href="practice-single.php"><div class="icon d-flex justify-content-center align-items-center">
         				<span class="flaticon-family"></span>
-        			</div>
-        			<h3><a href="#">Derechos familiares</a></h3>
+        			</div></a>
+        			<h3><a href="practice-single.php">Derechos familiares</a></h3>
         		</div>
         	</div>
         	<div class="col-md-3 col-lg-2 text-center">
         		<div class="practice-area ftco-animate">
-        			<div class="icon d-flex justify-content-center align-items-center">
+        		<a href="practice-single.php"><div class="icon d-flex justify-content-center align-items-center">
         				<span class="flaticon-employee"></span>
-        			</div>
-        			<h3><a href="#">Derechos laborales</a></h3>
+        			</div></a>
+        			<h3><a href="practice-single.php">Derechos laborales</a></h3>
         		</div>
         	</div>
     <!--     	<div class="col-md-3 col-lg-2 text-center">
@@ -213,18 +233,18 @@
         	</div> -->
         	<div class="col-md-3 col-lg-2 text-center">
         		<div class="practice-area ftco-animate">
-        			<div class="icon d-flex justify-content-center align-items-center">
+        			<a href="practice-single.php"><div class="icon d-flex justify-content-center align-items-center">
         				<span class="flaticon-house"></span>
-        			</div>
-        			<h3><a href="#">Derecho mercantil</a></h3>
+        			</div></a>
+        			<h3><a href="practice-single.php">Derecho mercantil</a></h3>
         		</div>
         	</div>
         	<div class="col-md-3 col-lg-2 text-center">
         		<div class="practice-area ftco-animate">
-        			<div class="icon d-flex justify-content-center align-items-center">
+        			<a href="practice-single.php"><div class="icon d-flex justify-content-center align-items-center">
         				<span class="flaticon-employee"></span>
-        			</div>
-        			<h3><a href="#">Derecho civil</a></h3>
+        			</div><a>
+        			<h3><a href="practice-single.php">Derecho civil</a></h3>
         		</div>
         	</div>
      <!--    	<div class="col-md-3 col-lg-2 text-center">
@@ -373,7 +393,7 @@
     </section> -->
 		
 
-		<section class="ftco-consultation">
+<!-- 		<section class="ftco-consultation">
     	<div class="container-fluid">
     		<div class="row d-md-flex">
     			<div class="half d-flex justify-content-center align-items-center img" style="background-image: url(images/bg_1.jpg);">
@@ -405,7 +425,7 @@
     			</div>
     		</div>
     	</div>
-    </section>
+    </section> -->
 
 <!--     <section class="ftco-section testimony-section bg-secondary">
       <div class="container">
@@ -623,76 +643,10 @@
       </div>
     </section> -->
 
-    <footer class="ftco-footer ftco-bg-dark ftco-section">
-      <div class="container">
-        <div class="row mb-5">
-          <div class="col-md">
-            <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">Abogados Martinez</h2>
-              <p>Mision o vision.</p>
-              <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
-                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-md">
-            <div class="ftco-footer-widget mb-4 ml-md-5">
-              <h2 class="ftco-heading-2">Areas de practica</h2>
-              <ul class="list-unstyled">
-                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Familiar </a></li>
-                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Criminal </a></li>
-                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Laboral</a></li>
-                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Mercantil</a></li>
-<!--                 <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Civil Offenses</a></li> -->
- <!--                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Fire Accident</a></li>
-                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Employment Law</a></li>
-                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Property Law</a></li> -->
+<?php
 
-              </ul>
-            </div>
-          </div>
-          <div class="col-md">
-             <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">Horarios</h2>
-              <div class="opening-hours">
-                <h4>Lunes a viernes:</h4>
-                <p class="pl-3">
-                  <span> 9am a 8pm</span>
-              <!--    <span>Sabados : 9am a 2pm</span> -->
-                </p>
-      <!--          <h4>Vacations:</h4>
-                <p class="pl-3">
-                  <span>All Sunday Days</span>
-                  <span>All Official Holidays</span>
-                </p> -->
-              </div>
-            </div>
-          </div>
-          <div class="col-md">
-            <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">Alguna duda?</h2>
-              <div class="block-23 mb-3">
-                <ul>
-                  <li><span class="icon icon-map-marker"></span><span class="text">normandia 36, int 8, Col. Carmen.</span></li>
-                  <li><a href="#"><span class="icon icon-phone"></span><span class="text">55 42 58 01 04</span></a></li>
-                  <li><a href="#"><span class="icon icon-envelope"></span><span class="text">contacto@comocrearmipaginaweb.com.mx</span></a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-12 text-center">
-
-            <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> Todos los derechos reservados   por <a href="http://comocrearmipaginaweb.com.mx" target="_blank">ComoCrearMiPaginaweb</a>
-  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
-          </div>
-        </div>
-      </div>
-    </footer>
+     include "footer.php";
+ ?>
     
   
 
