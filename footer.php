@@ -14,7 +14,7 @@
           </div>
           <div class="col-md">
             <div class="ftco-footer-widget mb-4 ml-md-5">
-              <h2 class="ftco-heading-2">Areas de practica</h2>
+              <h2 class="ftco-heading-2">Áreas de practica</h2>
               <ul class="list-unstyled">
                 <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Familiar </a></li>
                 <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Civil</a></li>
@@ -52,6 +52,7 @@
                 <ul>
                   <li><span class="icon icon-map-marker"></span><span class="text">Calle Dolores 16, interior #404, colonia centro.</span></li>
                   <li><a href="#"><span class="icon icon-phone"></span><span class="text">55 42 58 01 04 </span></a></li>
+                  <li><a href="#"><span class="icon icon-phone"></span><span class="text">55 36 31 81 46 </span></a></li>
                   <li><a href="#"><span class="icon icon-envelope"></span><span class="text">contacto@abogadosmartinez.mx</span></a></li>
                 </ul>
               </div>
