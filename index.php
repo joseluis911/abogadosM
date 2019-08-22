@@ -61,7 +61,7 @@
 	        <ul class="navbar-nav ml-auto">
 	          <li class="nav-item active"><a href="index.php" class="nav-link">Home</a></li>
 	          <li class="nav-item"><a href="about.php" class="nav-link">Acerca de nosotros</a></li>
-	          <li class="nav-item"><a href="practice-single.php" class="nav-link">Especialidades</a></li>
+	          <li class="nav-item"><a href="familiar.php" class="nav-link">Especialidades</a></li>
 <!-- 	          <li class="nav-item"><a href="attorneys.html" class="nav-link">Abogados</a></li>
 	          <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li> -->
 	          <li class="nav-item"><a href="contact.php" class="nav-link">Contacto</a></li>
@@ -233,10 +233,10 @@
         	</div> -->
         	<div class="col-md-3 col-lg-2 text-center">
         		<div class="practice-area ftco-animate">
-        			<a href="practice-single.php"><div class="icon d-flex justify-content-center align-items-center">
+        			<a href="mercantil.php"><div class="icon d-flex justify-content-center align-items-center">
         				<span class="flaticon-house"></span>
         			</div></a>
-        			<h3><a href="practice-single.php">Derecho Mercantil</a></h3>
+        			<h3><a href="mercantil.php">Derecho Mercantil</a></h3>
         		</div>
         	</div>
         	<div class="col-md-3 col-lg-2 text-center">

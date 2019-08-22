@@ -8203,7 +8203,7 @@ h1, h2, h3, h4, h5,
   position: relative; }
   @media (max-width: 425px){
     .hero-wrap{
-       background-image: url("../images/heroAM_smail.png");
+       background-image: url("../images/bg_1.jpg");
     }
   }
   .hero-wrap .overlay {
