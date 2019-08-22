@@ -93,21 +93,21 @@
             <div class="icon"><span class="flaticon-auction"></span></div>
             <div class="media-body">
               <h3 class="heading mb-3"><a href="practice-single.php">Orientación y Asesoria Legal GRATUITA</a></h3>
-              <p>Colaboraramos en la defensa de la justicia.</p>
+              <p>Colaboramos en la defensa de la justicia.</p>
             </div>
           </div>
           <div class="col-md-3 text-center services align-self-stretch ftco-animate p-4">
             <div class="icon"><span class="flaticon-lawyer"></span></div>
             <div class="media-body">
               <h3 class="heading mb-3"><a href="practice-single.php">Abogados lideres</a></h3>
-              <p>Brindamos a nuestros clientes, atención profesional y personalizada</p>
+              <p>Brindamos a nuestros clientes, atención profesional, personalizada y confiable.</p>
             </div>
           </div>
           <div class="col-md-3 text-center services align-self-stretch ftco-animate p-4">
             <div class="icon"><span class="flaticon-money"></span></div>
             <div class="media-body">
               <h3 class="heading mb-3"><a href="practice-single.php">Precios Justos</a></h3>
-              <p class="text-justify">Los servicios que ofrecemos están basados en la responsabilidad social y dentro de un nivel ético, profesional. garantizamos los mejores resultados para su beneficio y en defensa de sus derechos.</p>
+              <p class="text-justify">Los servicios que ofrecemos están basados en la responsabilidad social y dentro de un nivel ético, profesional. Garantizamos los mejores resultados para su beneficio y en defensa de sus derechos.</p>
             </div>
           </div>
  <!--          <div class="col-md-3 text-center services align-self-stretch ftco-animate p-4">
@@ -204,7 +204,7 @@
         			<a href="practice-single.php"><div class="icon d-flex justify-content-center align-items-center">
         				<span class="flaticon-family"></span>
         			</div></a>
-        			<h3><a href="practice-single.php">Derechos familiares</a></h3>
+        			<h3><a href="practice-single.php">Derechos Familiares</a></h3>
         		</div>
         	</div>
         	<div class="col-md-3 col-lg-2 text-center">
@@ -212,7 +212,7 @@
         		<a href="practice-single.php"><div class="icon d-flex justify-content-center align-items-center">
         				<span class="flaticon-employee"></span>
         			</div></a>
-        			<h3><a href="practice-single.php">Derechos laborales</a></h3>
+        			<h3><a href="practice-single.php">Derechos Laborales</a></h3>
         		</div>
         	</div>
     <!--     	<div class="col-md-3 col-lg-2 text-center">
@@ -236,7 +236,7 @@
         			<a href="practice-single.php"><div class="icon d-flex justify-content-center align-items-center">
         				<span class="flaticon-house"></span>
         			</div></a>
-        			<h3><a href="practice-single.php">Derecho mercantil</a></h3>
+        			<h3><a href="practice-single.php">Derecho Mercantil</a></h3>
         		</div>
         	</div>
         	<div class="col-md-3 col-lg-2 text-center">
@@ -244,7 +244,7 @@
         			<a href="practice-single.php"><div class="icon d-flex justify-content-center align-items-center">
         				<span class="flaticon-employee"></span>
         			</div><a>
-        			<h3><a href="practice-single.php">Derecho civil</a></h3>
+        			<h3><a href="practice-single.php">Derecho <br> Civil</a></h3>
         		</div>
         	</div>
      <!--    	<div class="col-md-3 col-lg-2 text-center">
