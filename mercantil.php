@@ -75,6 +75,47 @@
             <p> Somos experto en la rama del derecho que regula las relaciones personales y patrimoniales entre individuos. Atendemos personas fisicas, morales y gobierno.</p>
             <h2 class="mb-3 mt-4">Nuestra finalidad:</h2>
             <p>Es preservar los derechos, propiedades, contratos y el patrimonio en general de nuestros clientes, a traves de acciones preventivas o implementarias.</p>
+            <h2 class="mb-3 mt-4">Nuestros servicios:</h2>
+            <div class="row">
+              <div class="col-md-12">
+                
+                  <ul  style="list-style-type:none;">
+                    <li style="color: black">Pagares:</li>
+                    <li><img src="images/pagares.jpg"></li>
+                  </ul>
+                
+              </div>
+            </div>
+             <div class="row">
+              <div class="col-md-12">
+                
+                  <ul  style="list-style-type:none;">
+                    <li style="color: black">Inmuebles:</li>
+                    <li><img src="images/casa.jpg"></li>
+                  </ul>
+                
+              </div>
+            </div>
+             <div class="row">
+              <div class="col-md-12">
+                
+                  <ul  style="list-style-type:none;">
+                    <li style="color: black">Contratos:</li>
+                    <li><img src="images/contratos.jpg"></li>
+                  </ul>
+                
+              </div>
+            </div>
+                         <div class="row">
+              <div class="col-md-12">
+                
+                  <ul  style="list-style-type:none;">
+                    <li style="color: black">Hipotecas:</li>
+                    <li><img src="images/hipotecas.jpg"></li>
+                  </ul>
+                
+              </div>
+            </div>
             <h2 class="mb-3 mt-5">Comó podemos ayudar?</h2>
             <p>En Abogados martínez te podemos ayudar!.</p>
             <p><a href="contact.php" class="btn btn-primary">Solicita una consulta gratis!</a></p>
