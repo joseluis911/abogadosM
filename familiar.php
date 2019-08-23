@@ -74,7 +74,7 @@
             <h2 class="mb-3">Familiar:</h2>
             <p>Estas buscando seguridad, estabilidad e integridad?.</p>
             <p> Podemos ayudarte y te garantizamos bienestar.</p>
-            <h2 class="mb-3 mt-4">Nuestra servicios:</h2>
+            <h2 class="mb-3 mt-4">Nuestros servicios:</h2>
             <div class="row">
               <div class="col-md-12">
                 
