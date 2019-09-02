@@ -26,6 +26,10 @@
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+
+	 <!-- SweetAlert 2 https://sweetalert2.github.io/-->
+    <script src="plugins/sweetalert2/sweetalert2.all.js"></script>
   </head>
   <body>
     
@@ -40,7 +44,7 @@
           <ul class="navbar-nav ml-auto">
             <li class="nav-item "><a href="index.php" class="nav-link">Home</a></li>
             <li class="nav-item "><a href="about.php" class="nav-link">Acerca de nosotros</a></li>
-            <li class="nav-item"><a href="familiar.php" class="nav-link">Especialidades</a></li>
+            <li class="nav-item"><a href="practice-single.php" class="nav-link">Especialidades</a></li>
           <!--  <li class="nav-item"><a href="attorneys.html" class="nav-link">Abogados</a></li>
             <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li> -->
             <li class="nav-item active"><a href="contact.php" class="nav-link">Contacto</a></li>
@@ -85,24 +89,24 @@
         </div>
         <div class="row block-9">
           <div class="col-lg-6 order-md-last d-flex">
-            <form action="#" class="bg-light p-5 contact-form">
+            <div class="bg-light p-5 contact-form">
+             <div class="ajaxAlertas"></div>
               <div class="form-group">
-                <input type="text" class="form-control" placeholder="Nombre">
+                <input type="text" class="form-control nombre" placeholder="Nombre">
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" placeholder="Teléfono">
+                <input type="text" class="form-control telefono" placeholder="Teléfono">
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" placeholder="Email">
+                <input type="text" class="form-control email" placeholder="Email">
               </div>
               <div class="form-group">
-                <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="¿Cómo te podemos ayudar?"></textarea>
+                <textarea name="" id="" cols="30" rows="7" class="form-control mensaje" placeholder="¿Cómo te podemos ayudar?"></textarea>
               </div>
               <div class="form-group">
-                <input type="submit" value="Enviar Mensaje" class="btn btn-primary py-3 px-5">
+                <input type="button" value="Enviar Mensaje" class="btn btn-primary py-3 px-5 btnEnviar">
               </div>
-            </form>
-          
+            </div>
           </div>
 
           <div class="col-lg-6 d-flex">
@@ -164,6 +168,7 @@
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
   <script src="js/google-map.js"></script>
   <script src="js/main.js"></script>
+  <script src="js/mail.js"></script>
     
   </body>
 </html>
