@@ -65,7 +65,7 @@ $(".btnEnviar").on("click", function(){
 					  }).then((result) => {
 						if (result.value) {
 
-						window.location = "contact.html";
+						window.location = "contact.php";
 
 						}
 					})
