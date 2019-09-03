@@ -22,7 +22,7 @@ class AjaxContacto{
 
 		if ($respuesta == "ok") {
 
-			$para  = "jlsantiago691@gmail.com";
+			$para  = "martinez1ra@hotmail.com";
 
 				// título
 				$titulo = 'Ha recibido una nueva consulta';
